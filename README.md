@@ -1,4 +1,6 @@
 # Notification-Main-page
-# Computer and mbile design
+# Various Notifications shown
+# Red dot representing Unread Notifications/Messages
+# Computer and mobile design
 # Hover features
-# Change in design as mark All as Read clicked
+# Change in red dot as soon as "mark All as Read" is clicked
